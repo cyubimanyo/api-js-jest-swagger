@@ -28,7 +28,7 @@ The test suite validates Petstore Swagger API endpoints for various CRUD operati
 | **JavaScript (ES6+)** | Programming language for automation scripts |
 | **Jest** | Testing framework for JavaScript |
 | **Axios** | HTTP client for making API requests |
-| **Cucumber.js (optional)** | Supports Gherkin syntax for BDD test flow |
+| **Cucumber** | Supports Gherkin syntax for BDD test flow |
 | **Node.js** | Runtime environment for executing tests |
 
 ---
