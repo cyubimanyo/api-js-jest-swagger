@@ -14,7 +14,10 @@ The test suite validates Petstore Swagger API endpoints for various CRUD operati
 **Type:** API Automation  
 **Test Cases:** 10 total  
 - ✅ 5 Positive Test Cases  
-- ❌ 5 Negative Test Cases  
+- ❌ 5 Negative Test Cases
+
+**Manual Test Case Reference:**  
+📄 [View Full Manual Test Case Spreadsheet](https://docs.google.com/spreadsheets/d/1yby1FiPXElm0UR0VEwPJNhA3nIAFzanRv6LNEE2_i5k/edit?usp=sharing)
 
 ---
 
